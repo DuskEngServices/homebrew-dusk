@@ -8,7 +8,7 @@ cask "dusk" do
   url "https://github.com/DuskEngServices/dusk/releases/download/v#{version}/Dusk-#{version}-#{arch}.dmg"
   name "Dusk"
   desc "Fast, focused IDE from Dusk Engineering"
-  homepage "https://dusk.intelligent-curie.87-106-40-45.plesk.page/"
+  homepage "https://dusk.duskengineering.services/"
 
   app "Dusk.app"
 
