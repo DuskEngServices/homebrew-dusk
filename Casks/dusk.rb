@@ -1,9 +1,9 @@
 cask "dusk" do
   arch arm: "arm64", intel: "x64"
 
-  version "0.23.0"
-  sha256 arm:   "46a3b2667f3b7b299aa5c98e27ecc80a4ae58fcb7553d25c5580d2f44a9b6a1d",
-         intel: "a143d8532218617630cb186d9dd2431b574b8891ca3d66999e04fe21b816fe3e"
+  version "0.24.0"
+  sha256 arm:   "08322745e0e3521ee6b5a37c0cbc548174e73a71d09bb916dad8255e239a9603",
+         intel: "882f02dc85a7547035ea87f13f806f4c99f5c7a75a542c73c7e110b73b497133"
 
   url "https://github.com/DuskEngServices/dusk/releases/download/v#{version}/Dusk-#{version}-#{arch}.dmg"
   name "Dusk"
